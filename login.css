@@ -1,0 +1,58 @@
+body {
+  background-color: #fafafa;
+}
+
+.wraper {
+  max-width: 1000px !important;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -10px;
+}
+
+.space {
+  height: 20px;
+}
+
+.login-box {
+  margin-top: 15%;
+  padding: 30px;
+  margin-left: -80px;
+  margin-right: 50px;
+  background-color: white;
+  border: solid 1px rgb(214, 214, 214);
+}
+
+.ig-img {
+  padding-top: 5px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-bottom: 20px;
+}
+
+.input input {
+  margin-bottom: 5px;
+  width: 100%;
+  border: 1px solid rgb(219, 219, 219);
+  border-radius: 4px;
+  background: #fafafa;
+  font-size: 13px;
+  padding: 8px;
+}
+
+.submit input {
+  /* width: 100%;
+  margin-top: 5px;
+  border: 1px solid rgb(219, 219, 219);
+  border-radius: 5px;
+  font-size: 15px;
+  padding-top: 2px;
+  padding-bottom: 2px; */
+  width: 100%;
+  margin: 10px 0;
+  border: 1px solid rgb(21, 72, 241);
+  border-radius: 4px;
+  padding: 3px;
+}
